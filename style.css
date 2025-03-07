@@ -4,6 +4,10 @@
     box-sizing: border-box;
 }
 
+.logo {
+    width: 500px;
+    height: 140px;
+}
 
 :root {
     --primary: #536942;
