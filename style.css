@@ -120,7 +120,7 @@ nav {
     justify-content: center;
     gap: 16px;
     flex-wrap: flex;
-    background-color: #F3FADC;
+    background-color: #f5ede9;
 }
 .service {
     width: 350px;
@@ -137,7 +137,7 @@ nav {
 
 
 #testimonal {
-    background: #f1f2fa;
+    background: #f5ede9;
 }
 #testimonial .container {
     display: flex;
