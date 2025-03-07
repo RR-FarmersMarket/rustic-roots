@@ -2,7 +2,6 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    background-color: #2A4C09;
 }
 
 :root {
@@ -121,6 +120,7 @@ nav {
     justify-content: center;
     gap: 16px;
     flex-wrap: flex;
+    background-color: #F3FADC;
 }
 .service {
     width: 350px;
