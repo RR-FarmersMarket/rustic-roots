@@ -124,6 +124,7 @@ nav {
 }
 .service {
     width: 350px;
+    background-color: #F3FADC;
 }
 .service img {
     max-width: 100%;
@@ -133,8 +134,6 @@ nav {
 .service img:hover{
     transform: scale(1.05);
 }
-
-
 
 #testimonal {
     background: #f5ede9;
@@ -434,4 +433,8 @@ html{
     to {
         transform: translateX(0%);
     }
+}
+
+p.big {
+    line-height: 1.8;
 }
